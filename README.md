@@ -26,7 +26,7 @@
  - Piscine CPP      
 [![kbarbry's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2533644)](https://github.com/JaeSeoKim/badge42)
 
- - NetPratice
+ - NetPratice       
 [![kbarbry's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2451751)](https://github.com/JaeSeoKim/badge42)
 
  - MiniShell        
