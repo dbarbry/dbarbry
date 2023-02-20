@@ -4,9 +4,9 @@
   <img src="https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/stats?cursusId=21&coalitionId=50">
 </p>
 
-- 🔭 I’m currently working on ft_transcendence
-- 🌱 I’m currently learning Three.js
-- 💬 Ask me about everything you want
+- 🔭 Currently working on ft_transcendence
+- ✍🏽 Currently mastering NodeJS, Typescript, Vue3JS.
+- 🌱 Currently learning GraphQL, Prisma, SocketIO technologies.
 - 📫 How to reach me: kellianbarbry@gmail.com
 
 ## Projects I want to share
