@@ -4,9 +4,9 @@
   <img src="https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/stats?cursusId=21&coalitionId=50">
 </p>
 
-- 🔭 Currently working on ft_transcendence
-- ✍🏽 Currently mastering NodeJS, Typescript, Vue3JS.
-- 🌱 Currently learning GraphQL, Prisma, SocketIO technologies.
+- 🔭 Currently working on Internet of Things and Unleash the box
+- ✍🏽 Currently mastering Cybersecurity.
+- 🌱 Currently learning how to be happy.
 - 📫 How to reach me: kellianbarbry@gmail.com
 
 ## Projects I want to share
