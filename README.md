@@ -1,8 +1,17 @@
 # Welcome to my GitHub profile 👋
 
-<p>
-  <img src="https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/stats?cursusId=21&coalitionId=50">
+<p align="center">
+    <img src="images/header.png" alt="Welcome to my journey"/>
 </p>
+
+<h1 align="center">
+    Cabin crew, please take your seats for take off
+</h1>
+
+<p align="center">
+	<b><i>Let's talk about what you'll find here, who I am and how you can contact me.</i></b><br>
+</p>
+
 
 - 🔭 Currently working on Internet of Things and Unleash the box
 - ✍🏽 Currently mastering Cybersecurity.
