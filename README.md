@@ -1,5 +1,3 @@
-# Welcome to my GitHub profile 👋
-
 <p align="center">
     <img src="images/header.png" alt="Welcome to my journey"/>
 </p>
@@ -10,6 +8,10 @@
 
 <p align="center">
 	<b><i>Let's talk about what you'll find here, who I am and how you can contact me.</i></b><br>
+</p>
+
+<p align="center">
+    <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry"/>
 </p>
 
 
