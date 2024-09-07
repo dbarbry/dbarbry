@@ -12,6 +12,7 @@
 
 <p align="center">
     <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry"/>
+    <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry"/>
 </p>
 
 
