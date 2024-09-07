@@ -11,38 +11,22 @@
 </p>
 
 <p align="center">
-    <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry"/>
-    <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry?style=for-the-badge&labelColor=e6002a&color=ba0022" style="padding: 5px"/>
+    <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry?style=for-the-badge&labelColor=6a20f5&color=5000e6" style="padding: 5px"/>
 </p>
 
 
-- 🔭 Currently working on Internet of Things and Unleash the box
+- 🔭 Currently working on OverRide and Unleash the box
 - ✍🏽 Currently mastering Cybersecurity.
 - 🌱 Currently learning how to be happy.
 - 📫 How to reach me: kellianbarbry@gmail.com
 
-## Projects I want to share
-
- - ft_containers    
-[![kbarbry's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2534211)](https://github.com/JaeSeoKim/badge42)
-
- - ft_irc           
-[![kbarbry's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2534209)](https://github.com/JaeSeoKim/badge42)
-
- - Inception        
-[![kbarbry's 42 Inception Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2534210)](https://github.com/JaeSeoKim/badge42)
-
- - Cub3D            
-[![kbarbry's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2451738)](https://github.com/JaeSeoKim/badge42)
-
- - Piscine CPP      
-[![kbarbry's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2533644)](https://github.com/JaeSeoKim/badge42)
-
- - NetPratice       
-[![kbarbry's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2451751)](https://github.com/JaeSeoKim/badge42)
-
- - MiniShell        
-[![kbarbry's 42 minishell Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2436468)](https://github.com/JaeSeoKim/badge42)
-
- - Pipex            
-[![kbarbry's 42 pipex Score](https://badge42.vercel.app/api/v2/cl32f50m2004909ldjgnbzhyl/project/2424361)](https://github.com/JaeSeoKim/badge42)
+<details open>
+    <summary><h2>The projects I'm the most proud of</h2></summary>
+    <p align="left">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=RainFall&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=ft_transcendence&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=IoT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=SnowCrash&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    </p>
+</details>
