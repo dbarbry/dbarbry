@@ -8,23 +8,27 @@
 
 <p align="center">
 	<b><i>Let's talk about what you'll find here, who I am and how you can contact me.</i></b><br>
-    <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry?style=for-the-badge&labelColor=e6002a&color=ba0022" style="padding: 5px"/>
-    <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry?style=for-the-badge&labelColor=6a20f5&color=5000e6" style="padding: 5px"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry?style=for-the-badge&labelColor=e6002a&color=ba0022" style="padding: 24px 5px 5px 5px;"/>
+    <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry?style=for-the-badge&labelColor=6a20f5&color=5000e6" style="padding: 24px 5px 5px 5px;"/>
+    <img alt="Followers" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD&link=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26fs%3D1%26to%3Dkellianbarbry%40gmail.com%26su%3DContact_Github" style="padding: 24px 5px 5px 5px;"/>
 </p>
 
+<p align="center">
+
+[![Email Badge]()](mailto:kellianbarbry@gmail.com)
+
+</p>
 My name is Dhaya and I am a developer for 3 years now. I studied at 42 School, a school where there are no schedule, no teachers, just Google, and the huge number of competent students in the school. We learn by helping each others with projects getting harder and harder with time, and we progressively select the branch of computer science we want to focus on. I chose cyber security and will start AI, algorithmic and networking in the recent future.
 
 I love a lot of things in life, starting by life itself, cooking, learning languages, travel, meeting people from everywhere and sport which takes a considering amount of place in my everyday life.
 
 <h2 align="center">
-    Near future objectives
+    Near future objectives / Contacts
 </h2>
 
 <p class="plans" align="center">
     <b><i>Here are the different milestones I want to achieve on computer science, sport and world culture.</i></b>
 </p>
-
-<center>
 
 | Computer Science               	| Sport / Calisthenics 	| World Culture          	|
 |--------------------------------	|----------------------	|------------------------	|
@@ -33,13 +37,8 @@ I love a lot of things in life, starting by life itself, cooking, learning langu
 | Get a Networking certification 	| Baki Squats          	| Visit Thailand         	|
 | RNCP title from 42 School      	| First Pull-up        	| Take my mom to Rome    	|
 
-</center>
 
-- 🔭 Currently working on OverRide and Unleash the box
-- ✍🏽 Currently mastering Cybersecurity.
-- 🌱 Currently learning how to be happy.
-- 📫 How to reach me: kellianbarbry@gmail.com
-
+Finally if you want to reach me you can contact me at: kellianbarbry@gmail.com
 
 <p class="projects">
     <h2 align="center">The projects I'm the most proud of</h2>
