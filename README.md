@@ -8,21 +8,36 @@
 
 <p align="center">
 	<b><i>Let's talk about what you'll find here, who I am and how you can contact me.</i></b><br>
-</p>
-
-<p align="center">
     <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry?style=for-the-badge&labelColor=e6002a&color=ba0022" style="padding: 5px"/>
     <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry?style=for-the-badge&labelColor=6a20f5&color=5000e6" style="padding: 5px"/>
 </p>
 
+My name is Dhaya and I am a developer for 3 years now. I studied at 42 School, a school where there are no schedule, no teachers, just Google, and the huge number of competent students in the school. We learn by helping each others with projects getting harder and harder with time, and we progressively select the branch of computer science we want to focus on. I chose cyber security and will start AI, algorithmic and networking in the recent future.
+
+I love a lot of things in life, starting by life itself, cooking, learning languages, travel, meeting people from everywhere and sport which takes a considering amount of place in my everyday life.
+
+<h2 align="center">
+    Near future objectives
+</h2>
+
+<p class="plans" align="center">
+    <b><i>Here are the different milestones I want to achieve on computer science, sport and world culture.</i></b>
+
+| Computer science | Sport | World Culture |
+| :-- | :-- | :-- |
+| Unleash The box    | Dance                   | Thing           |
+| afawf              | egsehseh q              |                 |
+
+</p>
 
 - 🔭 Currently working on OverRide and Unleash the box
 - ✍🏽 Currently mastering Cybersecurity.
 - 🌱 Currently learning how to be happy.
 - 📫 How to reach me: kellianbarbry@gmail.com
 
-<details open>
-    <summary><h2>The projects I'm the most proud of</h2></summary>
+
+<p class="projects">
+    <h2 align="center">The projects I'm the most proud of</h2>
     <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=RainFall&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=ft_transcendence&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
@@ -31,4 +46,4 @@
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=IoT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kbarbry&repo=SnowCrash&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     </p>
-</details>
+</p>
