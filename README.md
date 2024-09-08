@@ -22,6 +22,9 @@ I love a lot of things in life, starting by life itself, cooking, learning langu
 
 <p class="plans" align="center">
     <b><i>Here are the different milestones I want to achieve on computer science, sport and world culture.</i></b>
+</p>
+
+<p align="center">
 
 | Computer Science               	| Sport / Calisthenics 	| World Culture          	|
 |--------------------------------	|----------------------	|------------------------	|
