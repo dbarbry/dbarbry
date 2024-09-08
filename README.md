@@ -8,7 +8,7 @@
 
 <p align="center">
 	<b><i>Let's talk about what you'll find here, who I am and how you can contact me.</i></b><br>
-    <br><br>
+    <br>
     <img alt="Stars" src="https://img.shields.io/github/stars/kbarbry?style=for-the-badge&labelColor=e6002a&color=ba0022"/>
     <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry?style=for-the-badge&labelColor=6a20f5&color=5000e6"/>
 </p>
