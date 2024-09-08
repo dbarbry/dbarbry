@@ -22,7 +22,7 @@ My name is Dhaya and I am a developer for 3 years now. I studied at 42 School, a
 I love a lot of things in life, starting by life itself, cooking, learning languages, travel, meeting people from everywhere and sport which takes a considering amount of place in my everyday life.
 
 <h2 align="center">
-    Near future objectives / Contacts
+    Near future objectives
 </h2>
 
 <p class="plans" align="center">
@@ -35,9 +35,6 @@ I love a lot of things in life, starting by life itself, cooking, learning langu
 | First real AI                  	| Pistol Squats        	| Climb Cotopaxi volcano 	|
 | Get a Networking certification 	| Baki Squats          	| Visit Thailand         	|
 | RNCP title from 42 School      	| First Pull-up        	| Take my mom to Rome    	|
-
-
-Finally if you want to reach me you can contact me at: kellianbarbry@gmail.com
 
 <p class="projects">
     <h2 align="center">The projects I'm the most proud of</h2>
