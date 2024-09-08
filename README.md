@@ -24,7 +24,7 @@ I love a lot of things in life, starting by life itself, cooking, learning langu
     <b><i>Here are the different milestones I want to achieve on computer science, sport and world culture.</i></b>
 </p>
 
-<p align="center">
+<center>
 
 | Computer Science               	| Sport / Calisthenics 	| World Culture          	|
 |--------------------------------	|----------------------	|------------------------	|
@@ -33,7 +33,7 @@ I love a lot of things in life, starting by life itself, cooking, learning langu
 | Get a Networking certification 	| Baki Squats          	| Visit Thailand         	|
 | RNCP title from 42 School      	| First Pull-up        	| Take my mom to Rome    	|
 
-</p>
+</center>
 
 - 🔭 Currently working on OverRide and Unleash the box
 - ✍🏽 Currently mastering Cybersecurity.
