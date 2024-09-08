@@ -23,10 +23,12 @@ I love a lot of things in life, starting by life itself, cooking, learning langu
 <p class="plans" align="center">
     <b><i>Here are the different milestones I want to achieve on computer science, sport and world culture.</i></b>
 
-| Computer science | Sport | World Culture |
-| :-- | :-- | :-- |
-| Unleash The box    | Dance                   | Thing           |
-| afawf              | egsehseh q              |                 |
+| Computer Science               	| Sport / Calisthenics 	| World Culture          	|
+|--------------------------------	|----------------------	|------------------------	|
+| Pro Hacker rank on HackTheBox  	| L-Sits               	| Learn sign language    	|
+| First real AI                  	| Pistol Squats        	| Climb Cotopaxi volcano 	|
+| Get a Networking certification 	| Baki Squats          	| Visit Thailand         	|
+| RNCP title from 42 School      	| First Pull-up        	| Take my mom to Rome    	|
 
 </p>
 
