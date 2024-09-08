@@ -12,8 +12,10 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/kbarbry?style=for-the-badge&labelColor=6a20f5&color=5000e6" style="padding: 24px 5px 0px 5px;"/>
 </p>
 
+
+
 <p align="center">
-    <a href="https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26fs%3D1%26to%3Dkellianbarbry%40gmail.com%26su%3DContact_Github"><img alt="Followers" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" style="padding: 0px 5px 5px 5px;"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kellianbarbry@gmail.com&su=Contact_Github"><img alt="Followers" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" style="padding: 0px 5px 5px 5px;"/></a>
 </p>
 
 My name is Dhaya and I am a developer for 3 years now. I studied at 42 School, a school where there are no schedule, no teachers, just Google, and the huge number of competent students in the school. We learn by helping each others with projects getting harder and harder with time, and we progressively select the branch of computer science we want to focus on. I chose cyber security and will start AI, algorithmic and networking in the recent future.
