@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kellianbarbry@gmail.com&su=Contact_Github"><img alt="Followers" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayabarbry@gmail.com&su=Contact_Github"><img alt="Followers" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD"/></a>
 </p>
 
 My name is Dhaya and I am a developer for 3 years now. I studied at 42 School, a school where there are no schedule, no teachers, just Google, and the huge number of competent students in the school. We learn by helping each others with projects getting harder and harder with time, and we progressively select the branch of computer science we want to focus on. I chose cyber security and will start AI, algorithmic and networking in the recent future.
